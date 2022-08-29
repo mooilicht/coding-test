@@ -7,3 +7,5 @@ https://codeup.kr/problem.php?id=6003
 Hello
 World
 '''
+print('Hello')
+print('World')

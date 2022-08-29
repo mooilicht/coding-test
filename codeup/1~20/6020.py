@@ -10,3 +10,5 @@ https://codeup.kr/problem.php?id=6020
 출력 예시
 0009071121112
 '''
+first, second = input().split("-")
+print(f"{first}{second}")

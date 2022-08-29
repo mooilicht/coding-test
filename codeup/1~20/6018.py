@@ -10,3 +10,4 @@ https://codeup.kr/problem.php?id=6018
 출력 예시
 3:16
 '''
+print(input())

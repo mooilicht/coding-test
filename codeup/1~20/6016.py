@@ -10,3 +10,5 @@ a b
 출력 예시
 b a
 '''
+a, b = input().split()
+print(b, a)

@@ -6,3 +6,4 @@ https://codeup.kr/problem.php?id=6004
 
 'Hello'
 '''
+print("'Hello'")

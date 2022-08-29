@@ -7,3 +7,5 @@ https://codeup.kr/problem.php?id=6011
 
 1.414213
 '''
+a = float(input())
+print(a)

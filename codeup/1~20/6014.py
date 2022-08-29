@@ -12,3 +12,9 @@ https://codeup.kr/problem.php?id=6014
 0.1
 0.1
 '''
+
+a = float(input())
+
+print(a)
+print(a)
+print(a)

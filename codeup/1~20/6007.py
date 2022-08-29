@@ -6,3 +6,4 @@ https://codeup.kr/problem.php?id=6007
 
 "C:\Download\'hello'.py"
 '''
+print("\"C:\Download\\'hello'.py\"")

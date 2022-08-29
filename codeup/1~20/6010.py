@@ -6,3 +6,5 @@ https://codeup.kr/problem.php?id=6010
 
 15
 '''
+a = input()
+print(int(a))

@@ -10,3 +10,5 @@ https://codeup.kr/problem.php?id=6019
 출력 예시
 4-3-2020
 '''
+year, month, day = input().split(".")
+print(f"{day}-{month}-{year}")

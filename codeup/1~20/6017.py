@@ -10,3 +10,5 @@ computer science
 출력 예시
 computer science computer science computer science
 '''
+a = input()
+print(a, a, a)

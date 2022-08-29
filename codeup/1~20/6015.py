@@ -11,3 +11,8 @@ https://codeup.kr/problem.php?id=6015
 1
 2
 '''
+
+a, b = input().split()
+
+print(int(a))
+print(int(b))
