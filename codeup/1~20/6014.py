@@ -1,4 +1,4 @@
-'''
+"""
 [기초-입출력] 실수 1개 입력받아 3번 출력하기
 https://codeup.kr/problem.php?id=6014
 
@@ -11,10 +11,8 @@ https://codeup.kr/problem.php?id=6014
 0.1
 0.1
 0.1
-'''
-
-a = float(input())
-
+"""
+a = input()
 print(a)
 print(a)
 print(a)

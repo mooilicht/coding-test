@@ -1,4 +1,4 @@
-'''
+"""
 [기초-입출력] 문자 2개 입력받아 순서 바꿔 출력하기 1
 https://codeup.kr/problem.php?id=6013
 
@@ -11,9 +11,8 @@ b
 출력 예시
 b
 a
-'''
+"""
 a = input()
 b = input()
-
 print(b)
 print(a)

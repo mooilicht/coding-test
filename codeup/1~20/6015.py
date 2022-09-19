@@ -1,4 +1,4 @@
-'''
+"""
 [기초-입출력] 정수 2개 입력받아 그대로 출력하기 2
 https://codeup.kr/problem.php?id=6015
 
@@ -10,9 +10,7 @@ https://codeup.kr/problem.php?id=6015
 출력 예시
 1
 2
-'''
-
+"""
 a, b = input().split()
-
-print(int(a))
-print(int(b))
+print(a)
+print(b)

@@ -1,4 +1,4 @@
-'''
+"""
 [기초-입출력] 연월일 입력받아 순서 바꿔 출력하기
 https://codeup.kr/problem.php?id=6019
 
@@ -9,6 +9,6 @@ https://codeup.kr/problem.php?id=6019
 
 출력 예시
 4-3-2020
-'''
-year, month, day = input().split(".")
-print(f"{day}-{month}-{year}")
+"""
+a, b, c = input().split(".")
+print(c, b, a, sep="-")
