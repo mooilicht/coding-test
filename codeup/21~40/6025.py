@@ -1,4 +1,4 @@
-'''
+"""
 [기초-값변환] 정수 2개 입력받아 합 계산하기
 https://codeup.kr/problem.php?id=6025
 
@@ -10,6 +10,6 @@ https://codeup.kr/problem.php?id=6025
 
 출력 예시
 0
-'''
-a, b = input().split()
-print(int(a) + int(b))
+"""
+a, b = map(int, input().split())
+print(a + b)

@@ -1,4 +1,4 @@
-'''
+"""
 [기초-입출력] 시분초 입력받아 분만 출력하기
 https://codeup.kr/problem.php?id=6023
 
@@ -9,6 +9,5 @@ https://codeup.kr/problem.php?id=6023
 
 출력 예시
 23
-'''
-a, b, c = input().split(":")
-print(b)
+"""
+print(input().split(":")[1])

@@ -1,4 +1,4 @@
-'''
+"""
 [기초-입출력] 단어 1개 입력받아 나누어 출력하기
 https://codeup.kr/problem.php?id=6021
 
@@ -14,7 +14,6 @@ e
 l
 l
 o
-'''
-word = input()
-for i in range(len(word)):
-  print(word[i])
+"""
+for i in input():
+    print(i)

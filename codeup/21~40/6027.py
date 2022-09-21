@@ -1,4 +1,4 @@
-'''
+"""
 [기초-출력변환] 10진 정수 입력받아 16진수로 출력하기1
 https://codeup.kr/problem.php?id=6027
 
@@ -9,4 +9,5 @@ https://codeup.kr/problem.php?id=6027
 
 출력 예시
 ff
-'''
+"""
+print("%x" % int(input()))
