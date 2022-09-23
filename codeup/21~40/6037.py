@@ -13,5 +13,4 @@ I love CSI love CSI love CS
 """
 a = int(input())
 b = input()
-for i in range(a):
-    print(b, end="")
+print(b * a)
