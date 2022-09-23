@@ -1,4 +1,4 @@
-'''
+"""
 [기초-산술연산] 문장 여러 번 출력하기
 https://codeup.kr/problem.php?id=6037
 
@@ -10,4 +10,8 @@ I love CS
 
 출력 예시
 I love CSI love CSI love CS
-'''
+"""
+a = int(input())
+b = input()
+for i in range(a):
+    print(b, end="")

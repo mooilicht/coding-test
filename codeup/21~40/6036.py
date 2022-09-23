@@ -1,4 +1,4 @@
-'''
+"""
 [기초-산술연산] 단어 여러 번 출력하기
 https://codeup.kr/problem.php?id=6036
 
@@ -9,4 +9,6 @@ love 3
 
 출력 예시
 lovelovelove
-'''
+"""
+a, b = input().split()
+print(a * int(b))

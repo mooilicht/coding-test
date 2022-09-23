@@ -1,4 +1,4 @@
-'''
+"""
 [기초-산술연산] 문자 1개 입력받아 다음 문자 출력하기
 https://codeup.kr/problem.php?id=6033
 
@@ -10,4 +10,5 @@ a
 
 출력 예시
 b
-'''
+"""
+print(chr(ord(input()) + 1))

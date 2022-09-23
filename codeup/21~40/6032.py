@@ -1,4 +1,4 @@
-'''
+"""
 [기초-산술연산] 정수 1개 입력받아 부호 바꾸기
 https://codeup.kr/problem.php?id=6032
 
@@ -9,4 +9,5 @@ https://codeup.kr/problem.php?id=6032
 
 출력 예시
 1
-'''
+"""
+print(-int(input()))
