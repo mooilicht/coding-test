@@ -48,32 +48,29 @@ https://codeup.kr/problem.php?id=6098
 1 0 0 0 0 0 0 0 0 1
 1 1 1 1 1 1 1 1 1 1
 """
-l = []
-x, y = 1, 1
-
+board = []
 for i in range(10):
-    a = input().split(" ")
-    l.append(a)
+    board_list = list(map(int, input().split()))
+    board.append(board_list)
+
+x, y = 1, 1
+board[x][y] = 9
 
 while True:
-    if l[x][y] == "0":
-        l[x][y] = 9
-        y += 1
-
-        if l[x][y] == "1":
-            x += 1
-            y -= 1
-        if l[x][y] == "2":
-            l[x][y] = 9
-            print("check")
-            break
-    elif l[x][y] == "1":
+    if board[x][y] == 2:
+        board[x][y] = 9
+        break
+    elif x == 9 or y == 9:
         break
     else:
-        break
-print()  # 입력, 출력 구별 줄바꿈
+        board[x][y] = 9
 
-for i in range(10):
-    for z in range(10):
-        print(l[i][z], end=" ")
+    if board[x][y + 1] == 0 or board[x][y + 1] == 2:
+        y += 1
+    else:
+        x += 1
+
+for i in board:
+    for j in i:
+        print(j, end=" ")
     print()
