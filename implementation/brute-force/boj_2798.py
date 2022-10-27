@@ -1,13 +1,10 @@
 n, m = map(int, input().split())
-arr = list(map(int, input().split()))
-result = 0
-
-for i in range(n):
-    for j in range(i + 1, n):
-        for k in range(j + 1, n):
-            if arr[i] + arr[j] + arr[k] > m:
-                continue
-            else:
-                result = max(result, arr[i] + arr[j] + arr[k])
-
-print(result)
+numbers = list(map(int, input().split()))
+max_nums = []
+for i in range(len(numbers) - 2):
+    for j in range(i + 1, len(numbers) - 1):
+        for k in range(j + 1, len(numbers)):
+            sum = numbers[i] + numbers[j] + numbers[k]
+            if m >= sum:
+                max_nums.append(sum)
+print(max(max_nums))
