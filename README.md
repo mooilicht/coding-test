@@ -14,6 +14,5 @@
 
 ### 백준
 
-- 구현
-  - [class1](/implementation/class1)
-- [그 외 문제들](/acmicpc)
+- [acmicpc](/acmicpc)
+- [구현(Implementation)](/implementation)
