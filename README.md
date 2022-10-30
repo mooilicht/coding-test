@@ -19,6 +19,8 @@
 - [acmicpc](/acmicpc)
 - [구현(Implementation)](/implementation)
   - [브루트포스(Brute-force), 완전 탐색](/implementation/brute-force)
+- [자료구조(Data Structure)](/data_structure)
+  - [스택(Stack)](/data_structure/stack)
 
 ### SWEA
 
