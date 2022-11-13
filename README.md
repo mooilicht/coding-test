@@ -17,7 +17,15 @@
 
 ## 파이썬
 
+<details>
+
+<summary>
+
 ### 🌱 코드업
+
+</summary>
+
+<div markdown="1">
 
 | 문제                                          | 풀이                                                          |
 | --------------------------------------------- | ------------------------------------------------------------- |
@@ -118,3 +126,7 @@
 | [6096](https://codeup.kr/problem.php?id=6096) | [바둑알 십자 뒤집기](/codeup/6096.py)                         |
 | [6097](https://codeup.kr/problem.php?id=6097) | [설탕과자 뽑기](/codeup/6097.py)                              |
 | [6098](https://codeup.kr/problem.php?id=6098) | [성실한 개미](/codeup/6098.py)                                |
+
+</div>
+
+</details>
