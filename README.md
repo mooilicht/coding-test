@@ -150,15 +150,16 @@
 |             |          | [11654번](https://www.acmicpc.net/problem/11654) | [아스키 코드](/implementation/boj_11654.py)                   |
 |             | Bronze 4 | [11720번](https://www.acmicpc.net/problem/11720) | [숫자의 합](/implementation/boj_11720.py)                     |
 |             | Bronze 3 | [2562번](https://www.acmicpc.net/problem/2562)   | [최댓값](/implementation/boj_2562.py)                         |
-|             | Bronze 3 | [10250번](https://www.acmicpc.net/problem/10250) | [ACM 호텔](/implementation/boj_10250.py)                      |
-|             | Bronze 3 | [10818번](https://www.acmicpc.net/problem/10818) | [최소, 최대](/implementation/boj_10818.py)                    |
+|             |          | [10250번](https://www.acmicpc.net/problem/10250) | [ACM 호텔](/implementation/boj_10250.py)                      |
+|             |          | [10818번](https://www.acmicpc.net/problem/10818) | [최소, 최대](/implementation/boj_10818.py)                    |
 |             | Bronze 2 | [2675번](https://www.acmicpc.net/problem/2675)   | [문자열 반복](/implementation/boj_2675.py)                    |
-|             | Bronze 2 | [2920번](https://www.acmicpc.net/problem/2920)   | [음계](/implementation/boj_2920.py)                           |
-|             | Bronze 2 | [8958번](https://www.acmicpc.net/problem/8958)   | [OX 퀴즈](/implementation/boj_8958.py)                        |
-|             | Bronze 2 | [18406번](https://www.acmicpc.net/problem/18406) | [럭키 스트레이트](/implementation/boj_18406.py)               |
+|             |          | [2920번](https://www.acmicpc.net/problem/2920)   | [음계](/implementation/boj_2920.py)                           |
+|             |          | [8958번](https://www.acmicpc.net/problem/8958)   | [OX 퀴즈](/implementation/boj_8958.py)                        |
+|             |          | [18406번](https://www.acmicpc.net/problem/18406) | [럭키 스트레이트](/implementation/boj_18406.py)               |
 |             | Bronze 1 | [1259번](https://www.acmicpc.net/problem/1259)   | [팰린드롬수](/implementation/boj_1259.py)                     |
-|             | Bronze 1 | [11050번](https://www.acmicpc.net/problem/11050) | [이항 계수](/implementation/boj_11050.py)                     |
+|             |          | [11050번](https://www.acmicpc.net/problem/11050) | [이항 계수](/implementation/boj_11050.py)                     |
 | 브루트 포스 | Bronze 2 | [2798번](https://www.acmicpc.net/problem/2798)   | [블랙잭](/implementation/brute-force/boj_2798.py)             |
 |             | Silver 4 | [1018번](https://www.acmicpc.net/problem/1018)   | [체스판 다시 칠하기](/implementation/brute-force/boj_1018.py) |
-| 스택        |          | [10828번](https://www.acmicpc.net/problem/10828) | [스택](/data_structure/stack/boj_10828.py)                    |
-|             |          | [9012번](https://www.acmicpc.net/problem/9012)   | [괄호](/data_structure/stack/boj_9012.py)                     |
+| 스택        |          | [9012번](https://www.acmicpc.net/problem/9012)   | [괄호](/data_structure/stack/boj_9012.py)                     |
+|             |          | [10828번](https://www.acmicpc.net/problem/10828) | [스택](/data_structure/stack/boj_10828.py)                    |
+| 큐          | Silver 5 | [11866번](https://www.acmicpc.net/problem/11866) | [요세푸스 문제](/data_structure/queue/boj_11866.py)           |
