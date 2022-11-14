@@ -133,8 +133,32 @@
 
 ### 🌱 백준
 
-| 유형 | 문제    | 풀이        |
-| ---- | ------- | ----------- |
-| 구현 | 2557번  | Hello World |
-| 구현 | 10869번 | 사칙연산    |
-| 구현 |
+| 유형        | 난이도   | 문제                                             | 풀이                                                          |
+| ----------- | -------- | ------------------------------------------------ | ------------------------------------------------------------- |
+|             | Bronze 3 | [4153번](https://www.acmicpc.net/problem/4153)   | [직각삼각형](/acmicpc/boj_4153.py)                            |
+|             | Bronze 2 | [2609번](https://www.acmicpc.net/problem/2609)   | [최대공약수와 최소공배수](/acmicpc/boj_2609.py)               |
+|             | Silver 5 | [1978번](https://www.acmicpc.net/problem/1978)   | [소수 찾기](/acmicpc/boj_1978.py)                             |
+| 구현        |          | [1008번](https://www.acmicpc.net/problem/1008)   | [A / B](/implementation/boj_1008.py)                          |
+|             |          | [1330번](https://www.acmicpc.net/problem/1330)   | [두 수 비교하기](/implementation/boj_1330.py)                 |
+|             |          | [2438번](https://www.acmicpc.net/problem/2438)   | [별 찍기](/implementation/boj_2438.py)                        |
+|             |          | [2557번](https://www.acmicpc.net/problem/2557)   | [Hello World](/implementation/boj_2557.py)                    |
+|             |          | [2739번](https://www.acmicpc.net/problem/2739)   | [구구단](/implementation/boj_2739.py)                         |
+|             |          | [10869번](https://www.acmicpc.net/problem/10869) | [사칙연산](/implementation/boj_10869.py)                      |
+|             |          | [10950번](https://www.acmicpc.net/problem/10950) | [A + B - 3](/implementation/boj_10950.py)                     |
+|             |          | [10951번](https://www.acmicpc.net/problem/10951) | [A + B - 4](/implementation/boj_10951.py)                     |
+|             |          | [10952번](https://www.acmicpc.net/problem/10952) | [A + B - 5](/implementation/boj_10952.py)                     |
+|             |          | [11654번](https://www.acmicpc.net/problem/11654) | [아스키 코드](/implementation/boj_11654.py)                   |
+|             | Bronze 4 | [11720번](https://www.acmicpc.net/problem/11720) | [숫자의 합](/implementation/boj_11720.py)                     |
+|             | Bronze 3 | [2562번](https://www.acmicpc.net/problem/2562)   | [최댓값](/implementation/boj_2562.py)                         |
+|             | Bronze 3 | [10250번](https://www.acmicpc.net/problem/10250) | [ACM 호텔](/implementation/boj_10250.py)                      |
+|             | Bronze 3 | [10818번](https://www.acmicpc.net/problem/10818) | [최소, 최대](/implementation/boj_10818.py)                    |
+|             | Bronze 2 | [2675번](https://www.acmicpc.net/problem/2675)   | [문자열 반복](/implementation/boj_2675.py)                    |
+|             | Bronze 2 | [2920번](https://www.acmicpc.net/problem/2920)   | [음계](/implementation/boj_2920.py)                           |
+|             | Bronze 2 | [8958번](https://www.acmicpc.net/problem/8958)   | [OX 퀴즈](/implementation/boj_8958.py)                        |
+|             | Bronze 2 | [18406번](https://www.acmicpc.net/problem/18406) | [럭키 스트레이트](/implementation/boj_18406.py)               |
+|             | Bronze 1 | [1259번](https://www.acmicpc.net/problem/1259)   | [팰린드롬수](/implementation/boj_1259.py)                     |
+|             | Bronze 1 | [11050번](https://www.acmicpc.net/problem/11050) | [이항 계수](/implementation/boj_11050.py)                     |
+| 브루트 포스 | Bronze 2 | [2798번](https://www.acmicpc.net/problem/2798)   | [블랙잭](/implementation/brute-force/boj_2798.py)             |
+|             | Silver 4 | [1018번](https://www.acmicpc.net/problem/1018)   | [체스판 다시 칠하기](/implementation/brute-force/boj_1018.py) |
+| 스택        |          | [10828번](https://www.acmicpc.net/problem/10828) | [스택](/data_structure/stack/boj_10828.py)                    |
+|             |          | [9012번](https://www.acmicpc.net/problem/9012)   | [괄호](/data_structure/stack/boj_9012.py)                     |
