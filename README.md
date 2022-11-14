@@ -133,33 +133,88 @@
 
 ### 🌱 백준
 
-| 유형        | 난이도   | 문제                                             | 풀이                                                          |
-| ----------- | -------- | ------------------------------------------------ | ------------------------------------------------------------- |
-|             | Bronze 3 | [4153번](https://www.acmicpc.net/problem/4153)   | [직각삼각형](/acmicpc/boj_4153.py)                            |
-|             | Bronze 2 | [2609번](https://www.acmicpc.net/problem/2609)   | [최대공약수와 최소공배수](/acmicpc/boj_2609.py)               |
-|             | Silver 5 | [1978번](https://www.acmicpc.net/problem/1978)   | [소수 찾기](/acmicpc/boj_1978.py)                             |
-| 구현        |          | [1008번](https://www.acmicpc.net/problem/1008)   | [A / B](/implementation/boj_1008.py)                          |
-|             |          | [1330번](https://www.acmicpc.net/problem/1330)   | [두 수 비교하기](/implementation/boj_1330.py)                 |
-|             |          | [2438번](https://www.acmicpc.net/problem/2438)   | [별 찍기](/implementation/boj_2438.py)                        |
-|             |          | [2557번](https://www.acmicpc.net/problem/2557)   | [Hello World](/implementation/boj_2557.py)                    |
-|             |          | [2739번](https://www.acmicpc.net/problem/2739)   | [구구단](/implementation/boj_2739.py)                         |
-|             |          | [10869번](https://www.acmicpc.net/problem/10869) | [사칙연산](/implementation/boj_10869.py)                      |
-|             |          | [10950번](https://www.acmicpc.net/problem/10950) | [A + B - 3](/implementation/boj_10950.py)                     |
-|             |          | [10951번](https://www.acmicpc.net/problem/10951) | [A + B - 4](/implementation/boj_10951.py)                     |
-|             |          | [10952번](https://www.acmicpc.net/problem/10952) | [A + B - 5](/implementation/boj_10952.py)                     |
-|             |          | [11654번](https://www.acmicpc.net/problem/11654) | [아스키 코드](/implementation/boj_11654.py)                   |
-|             | Bronze 4 | [11720번](https://www.acmicpc.net/problem/11720) | [숫자의 합](/implementation/boj_11720.py)                     |
-|             | Bronze 3 | [2562번](https://www.acmicpc.net/problem/2562)   | [최댓값](/implementation/boj_2562.py)                         |
-|             |          | [10250번](https://www.acmicpc.net/problem/10250) | [ACM 호텔](/implementation/boj_10250.py)                      |
-|             |          | [10818번](https://www.acmicpc.net/problem/10818) | [최소, 최대](/implementation/boj_10818.py)                    |
-|             | Bronze 2 | [2675번](https://www.acmicpc.net/problem/2675)   | [문자열 반복](/implementation/boj_2675.py)                    |
-|             |          | [2920번](https://www.acmicpc.net/problem/2920)   | [음계](/implementation/boj_2920.py)                           |
-|             |          | [8958번](https://www.acmicpc.net/problem/8958)   | [OX 퀴즈](/implementation/boj_8958.py)                        |
-|             |          | [18406번](https://www.acmicpc.net/problem/18406) | [럭키 스트레이트](/implementation/boj_18406.py)               |
-|             | Bronze 1 | [1259번](https://www.acmicpc.net/problem/1259)   | [팰린드롬수](/implementation/boj_1259.py)                     |
-|             |          | [11050번](https://www.acmicpc.net/problem/11050) | [이항 계수](/implementation/boj_11050.py)                     |
-| 브루트 포스 | Bronze 2 | [2798번](https://www.acmicpc.net/problem/2798)   | [블랙잭](/implementation/brute-force/boj_2798.py)             |
-|             | Silver 4 | [1018번](https://www.acmicpc.net/problem/1018)   | [체스판 다시 칠하기](/implementation/brute-force/boj_1018.py) |
-| 스택        |          | [9012번](https://www.acmicpc.net/problem/9012)   | [괄호](/data_structure/stack/boj_9012.py)                     |
-|             |          | [10828번](https://www.acmicpc.net/problem/10828) | [스택](/data_structure/stack/boj_10828.py)                    |
-| 큐          | Silver 5 | [11866번](https://www.acmicpc.net/problem/11866) | [요세푸스 문제](/data_structure/queue/boj_11866.py)           |
+| 유형        | 난이도   | 문제                                             | 풀이                                                      |
+| ----------- | -------- | ------------------------------------------------ | --------------------------------------------------------- |
+|             | Bronze 3 | [4153번](https://www.acmicpc.net/problem/4153)   | [직각삼각형](/acmicpc/4153.py)                            |
+|             | Bronze 2 | [2609번](https://www.acmicpc.net/problem/2609)   | [최대공약수와 최소공배수](/acmicpc/2609.py)               |
+|             | Silver 5 | [1978번](https://www.acmicpc.net/problem/1978)   | [소수 찾기](/acmicpc/1978.py)                             |
+| 구현        |          | [1008번](https://www.acmicpc.net/problem/1008)   | [A / B](/implementation/1008.py)                          |
+|             |          | [1330번](https://www.acmicpc.net/problem/1330)   | [두 수 비교하기](/implementation/1330.py)                 |
+|             |          | [2438번](https://www.acmicpc.net/problem/2438)   | [별 찍기](/implementation/2438.py)                        |
+|             |          | [2557번](https://www.acmicpc.net/problem/2557)   | [Hello World](/implementation/2557.py)                    |
+|             |          | [2739번](https://www.acmicpc.net/problem/2739)   | [구구단](/implementation/2739.py)                         |
+|             |          | [10869번](https://www.acmicpc.net/problem/10869) | [사칙연산](/implementation/10869.py)                      |
+|             |          | [10950번](https://www.acmicpc.net/problem/10950) | [A + B - 3](/implementation/10950.py)                     |
+|             |          | [10951번](https://www.acmicpc.net/problem/10951) | [A + B - 4](/implementation/10951.py)                     |
+|             |          | [10952번](https://www.acmicpc.net/problem/10952) | [A + B - 5](/implementation/10952.py)                     |
+|             |          | [11654번](https://www.acmicpc.net/problem/11654) | [아스키 코드](/implementation/11654.py)                   |
+|             | Bronze 4 | [11720번](https://www.acmicpc.net/problem/11720) | [숫자의 합](/implementation/11720.py)                     |
+|             | Bronze 3 | [2562번](https://www.acmicpc.net/problem/2562)   | [최댓값](/implementation/2562.py)                         |
+|             |          | [10250번](https://www.acmicpc.net/problem/10250) | [ACM 호텔](/implementation/10250.py)                      |
+|             |          | [10818번](https://www.acmicpc.net/problem/10818) | [최소, 최대](/implementation/10818.py)                    |
+|             | Bronze 2 | [2675번](https://www.acmicpc.net/problem/2675)   | [문자열 반복](/implementation/2675.py)                    |
+|             |          | [2920번](https://www.acmicpc.net/problem/2920)   | [음계](/implementation/2920.py)                           |
+|             |          | [8958번](https://www.acmicpc.net/problem/8958)   | [OX 퀴즈](/implementation/8958.py)                        |
+|             |          | [18406번](https://www.acmicpc.net/problem/18406) | [럭키 스트레이트](/implementation/18406.py)               |
+|             | Bronze 1 | [1259번](https://www.acmicpc.net/problem/1259)   | [팰린드롬수](/implementation/1259.py)                     |
+|             |          | [11050번](https://www.acmicpc.net/problem/11050) | [이항 계수](/implementation/11050.py)                     |
+| 브루트 포스 | Bronze 2 | [2798번](https://www.acmicpc.net/problem/2798)   | [블랙잭](/implementation/brute-force/2798.py)             |
+|             | Silver 4 | [1018번](https://www.acmicpc.net/problem/1018)   | [체스판 다시 칠하기](/implementation/brute-force/1018.py) |
+| 스택        |          | [9012번](https://www.acmicpc.net/problem/9012)   | [괄호](/data_structure/stack/9012.py)                     |
+|             |          | [10828번](https://www.acmicpc.net/problem/10828) | [스택](/data_structure/stack/10828.py)                    |
+| 큐          | Silver 5 | [11866번](https://www.acmicpc.net/problem/11866) | [요세푸스 문제](/data_structure/queue/11866.py)           |
+
+### 🌱 SW Expert Academy
+
+<details>
+
+<summary>
+
+#### D1
+
+</summary>
+
+<div markdown="1">
+
+| 문제 | 풀이                                        |
+| ---- | ------------------------------------------- |
+| 1545 | [거꾸로 출력해 보아요](/swea/d1/1545.py)    |
+| 1933 | [간단한 N의 약수](/swea/d1/1933.py)         |
+| 1938 | [아주 간단한 계산기](/swea/d1/1938.py)      |
+| 1936 | [1대1 가위바위보](/swea/d1/1936.py)         |
+| 2019 | [더블더블](/swea/d1/2019.py)                |
+| 2025 | [N줄 덧셈](/swea/d1/2025.py)                |
+| 2027 | [대각선 출력하기](/swea/d1/2027.py)         |
+| 2029 | [몫과 나머지 출력하기](/swea/d1/2029.py)    |
+| 2043 | [서랍의 비밀번호](/swea/d1/2043.py)         |
+| 2046 | [스탬프 찍기](/swea/d1/2046.py)             |
+| 2047 | [신문 헤드라인](/swea/d1/2047.py)           |
+| 2050 | [알파벳을 숫자로 변환](/swea/d1/2050.py)    |
+| 2056 | [연월일 달력](/swea/d1/2056.py)             |
+| 2058 | [자릿수 더하기](/swea/d1/2058.py)           |
+| 2063 | [중간값 찾기](/swea/d1/2063.py)             |
+| 2068 | [최대수 구하기](/swea/d1/2068.py)           |
+| 2070 | [큰 놈, 작은 놈, 같은 놈](/swea/d1/2070.py) |
+| 2071 | [평균값 구하기](/swea/d1/2071.py)           |
+| 2072 | [홀수만 더하기](/swea/d1/2072.py)           |
+
+</div>
+
+</details>
+
+#### D2
+
+| 문제 | 풀이                                               |
+| ---- | -------------------------------------------------- |
+| 1284 | [수도 요금 경쟁](/swea/d2/1284.py)                 |
+| 1288 | [새로운 불면증 치료법](/swea/d2/1288.py)           |
+| 1928 | [Base64 Decoder](/swea/d2/1928.py)                 |
+| 1940 | [가랏! RC카!](/swea/d2/1940.py)                    |
+| 1945 | [간단한 소인수분해](/swea/d2/1945.py)              |
+| 1948 | [날짜 계산기](/swea/d2/1948.py)                    |
+| 1959 | [두 개의 숫자열](/swea/d2/1959.py)                 |
+| 1966 | [숫자를 정렬하자](/swea/d2/1966.py)                |
+| 1979 | [어디에 단어가 들어갈 수 있을까](/swea/d2/1979.py) |
+| 1986 | [지그재그 숫자](/swea/d2/1986.py)                  |
+| 1989 | [초심자의 회문 검사](/swea/d2/1989.py)             |
+| 2007 | [패턴 마디의 길이](/swea/d2/2007.py)               |
