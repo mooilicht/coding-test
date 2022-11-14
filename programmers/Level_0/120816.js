@@ -1,4 +1,10 @@
 function solution(slice, n) {
-  const answer = parseInt(n / slice);
-  return n % slice == 0 ? answer : answer + 1;
+  let pizza = 1;
+
+  while (true) {
+    if (pizza * slice >= n) break;
+    pizza++;
+  }
+
+  return pizza;
 }
