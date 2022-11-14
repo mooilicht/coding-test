@@ -33,6 +33,7 @@
 | [120822](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [문자열 뒤집기](/programmers/Level_0/120822.js)       |
 | [120823](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [직각삼각형 출력하기](/programmers/Level_0/120823.js) |
 | [120824](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [짝수 홀수 개수](/programmers/Level_0/120824.js)      |
+| [120825](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | [문자 반복 출력하기](/programmers/Level_0/120825.js)  |
 | [120829](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [각도기](/programmers/Level_0/120829.js)              |
 | [120830](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [양꼬치](/programmers/Level_0/120830.js)              |
 | [120831](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [짝수의 합](/programmers/Level_0/120831.js)           |
