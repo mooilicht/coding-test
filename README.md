@@ -38,6 +38,7 @@
 | [120829](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [각도기](/programmers/Level_0/120829.js)              |
 | [120830](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [양꼬치](/programmers/Level_0/120830.js)              |
 | [120831](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [짝수의 합](/programmers/Level_0/120831.js)           |
+| [120833](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [배열 자르기](/programmers/Level_0/120833.js)         |
 
 <br>
 
@@ -191,7 +192,8 @@
 | 스택        |          | [9012번](https://www.acmicpc.net/problem/9012)   | [괄호](/data_structure/stack/9012.py)                     |
 |             |          | [10828번](https://www.acmicpc.net/problem/10828) | [스택](/data_structure/stack/10828.py)                    |
 | 큐          | Silver 5 | [11866번](https://www.acmicpc.net/problem/11866) | [요세푸스 문제](/data_structure/queue/11866.py)           |
-|             | Silver 4 | [10845번](https://www.acmicpc.net/problem/10845) | [큐](/data_structure/queue/10845.py)                      |
+|             | Silver 4 | [2164번](https://www.acmicpc.net/problem/2164)   | [카드2](/data_structure/queue/2164.py)                    |
+|             |          | [10845번](https://www.acmicpc.net/problem/10845) | [큐](/data_structure/queue/10845.py)                      |
 
 <br>
 
@@ -243,6 +245,7 @@
 | 1940 | [가랏! RC카!](/swea/d2/1940.py)                    |
 | 1945 | [간단한 소인수분해](/swea/d2/1945.py)              |
 | 1948 | [날짜 계산기](/swea/d2/1948.py)                    |
+| 1954 | [달팽이 숫자](/swea/d2/1954.py)                    |
 | 1959 | [두 개의 숫자열](/swea/d2/1959.py)                 |
 | 1961 | [숫자 배열 회전](/swea/d2/1961.py)                 |
 | 1966 | [숫자를 정렬하자](/swea/d2/1966.py)                |
