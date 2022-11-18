@@ -39,6 +39,7 @@
 | [120830](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [양꼬치](/programmers/Level_0/120830.js)              |
 | [120831](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [짝수의 합](/programmers/Level_0/120831.js)           |
 | [120833](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [배열 자르기](/programmers/Level_0/120833.js)         |
+| [120834](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [외계행성의 나이](/programmers/Level_0/120834.js)     |
 
 <br>
 
@@ -194,6 +195,7 @@
 | 큐          | Silver 5 | [11866번](https://www.acmicpc.net/problem/11866) | [요세푸스 문제](/data_structure/queue/11866.py)           |
 |             | Silver 4 | [2164번](https://www.acmicpc.net/problem/2164)   | [카드2](/data_structure/queue/2164.py)                    |
 |             |          | [10845번](https://www.acmicpc.net/problem/10845) | [큐](/data_structure/queue/10845.py)                      |
+|             |          | [10866번](https://www.acmicpc.net/problem/10866) | [덱](/data_structure/queue/10866.py)                      |
 
 <br>
 
@@ -252,4 +254,5 @@
 | 1979 | [어디에 단어가 들어갈 수 있을까](/swea/d2/1979.py) |
 | 1986 | [지그재그 숫자](/swea/d2/1986.py)                  |
 | 1989 | [초심자의 회문 검사](/swea/d2/1989.py)             |
+| 2001 | [파리 퇴치](/swea/d2/2001.py)                      |
 | 2007 | [패턴 마디의 길이](/swea/d2/2007.py)               |
