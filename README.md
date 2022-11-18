@@ -40,6 +40,7 @@
 | [120831](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [짝수의 합](/programmers/Level_0/120831.js)           |
 | [120833](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [배열 자르기](/programmers/Level_0/120833.js)         |
 | [120834](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [외계행성의 나이](/programmers/Level_0/120834.js)     |
+| [120835](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [진료순서 정하기](/programmers/Level_0/120835.js)     |
 
 <br>
 
@@ -251,6 +252,7 @@
 | 1959 | [두 개의 숫자열](/swea/d2/1959.py)                 |
 | 1961 | [숫자 배열 회전](/swea/d2/1961.py)                 |
 | 1966 | [숫자를 정렬하자](/swea/d2/1966.py)                |
+| 1974 | [스도쿠 검증](/swea/d2/1974.py)                    |
 | 1979 | [어디에 단어가 들어갈 수 있을까](/swea/d2/1979.py) |
 | 1986 | [지그재그 숫자](/swea/d2/1986.py)                  |
 | 1989 | [초심자의 회문 검사](/swea/d2/1989.py)             |
