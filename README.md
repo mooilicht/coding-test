@@ -41,6 +41,7 @@
 | [120833](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [배열 자르기](/programmers/Level_0/120833.js)         |
 | [120834](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [외계행성의 나이](/programmers/Level_0/120834.js)     |
 | [120835](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [진료순서 정하기](/programmers/Level_0/120835.js)     |
+| [120836](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [순서쌍의 개수](/programmers/Level_0/120836.js)       |
 
 <br>
 
