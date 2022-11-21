@@ -43,6 +43,7 @@
 | [120835](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [진료순서 정하기](/programmers/Level_0/120835.js)     |
 | [120836](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [순서쌍의 개수](/programmers/Level_0/120836.js)       |
 | [120837](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [개미 군단](/programmers/Level_0/120837.js)           |
+| [120838](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | [모스부호](/programmers/Level_0/120838.js)            |
 
 <br>
 
@@ -193,12 +194,13 @@
 |             |          | [11050번](https://www.acmicpc.net/problem/11050) | [이항 계수](/implementation/11050.py)                     |
 | 브루트 포스 | Bronze 2 | [2798번](https://www.acmicpc.net/problem/2798)   | [블랙잭](/implementation/brute-force/2798.py)             |
 |             | Silver 4 | [1018번](https://www.acmicpc.net/problem/1018)   | [체스판 다시 칠하기](/implementation/brute-force/1018.py) |
-| 스택        |          | [9012번](https://www.acmicpc.net/problem/9012)   | [괄호](/data_structure/stack/9012.py)                     |
+| 스택        | Silver 4 | [9012번](https://www.acmicpc.net/problem/9012)   | [괄호](/data_structure/stack/9012.py)                     |
 |             |          | [10828번](https://www.acmicpc.net/problem/10828) | [스택](/data_structure/stack/10828.py)                    |
 | 큐          | Silver 5 | [11866번](https://www.acmicpc.net/problem/11866) | [요세푸스 문제](/data_structure/queue/11866.py)           |
 |             | Silver 4 | [2164번](https://www.acmicpc.net/problem/2164)   | [카드2](/data_structure/queue/2164.py)                    |
 |             |          | [10845번](https://www.acmicpc.net/problem/10845) | [큐](/data_structure/queue/10845.py)                      |
 |             |          | [10866번](https://www.acmicpc.net/problem/10866) | [덱](/data_structure/queue/10866.py)                      |
+| 정렬        | Silver 5 | [2751번](https://www.acmicpc.net/problem/2751)   | [수 정렬하기](/sorting/2751.py)                           |
 
 <br>
 
@@ -255,6 +257,7 @@
 | 1961 | [숫자 배열 회전](/swea/d2/1961.py)                 |
 | 1966 | [숫자를 정렬하자](/swea/d2/1966.py)                |
 | 1974 | [스도쿠 검증](/swea/d2/1974.py)                    |
+| 1976 | [시각 덧셈](/swea/d2/1976.py)                      |
 | 1979 | [어디에 단어가 들어갈 수 있을까](/swea/d2/1979.py) |
 | 1986 | [지그재그 숫자](/swea/d2/1986.py)                  |
 | 1989 | [초심자의 회문 검사](/swea/d2/1989.py)             |
