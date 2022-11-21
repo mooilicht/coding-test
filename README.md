@@ -42,6 +42,7 @@
 | [120834](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [외계행성의 나이](/programmers/Level_0/120834.js)     |
 | [120835](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [진료순서 정하기](/programmers/Level_0/120835.js)     |
 | [120836](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [순서쌍의 개수](/programmers/Level_0/120836.js)       |
+| [120837](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [개미 군단](/programmers/Level_0/120837.js)           |
 
 <br>
 
@@ -258,4 +259,5 @@
 | 1986 | [지그재그 숫자](/swea/d2/1986.py)                  |
 | 1989 | [초심자의 회문 검사](/swea/d2/1989.py)             |
 | 2001 | [파리 퇴치](/swea/d2/2001.py)                      |
+| 2005 | [파스칼의 삼각형](/swea/d2/2005.py)                |
 | 2007 | [패턴 마디의 길이](/swea/d2/2007.py)               |
