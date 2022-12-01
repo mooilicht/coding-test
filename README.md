@@ -46,6 +46,10 @@
 | [120838](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | [모스부호](/programmers/Level_0/120838.js)                |
 | [120839](https://school.programmers.co.kr/learn/courses/30/lessons/120839) | [가위 바위 보](/programmers/Level_0/120839.js)            |
 | [120840](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | [구슬을 나누는 경우의 수](/programmers/Level_0/120840.js) |
+| [120841](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | [점의 위치 구하기](/programmers/Level_0/120841.js)        |
+| [120842](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [2차원으로 만들기](/programmers/Level_0/120842.js)        |
+| [120843](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | [공 던지기](/programmers/Level_0/120843.js)               |
+| [120844](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | [배열 회전시키기](/programmers/Level_0/120844.js)         |
 
 <br>
 
