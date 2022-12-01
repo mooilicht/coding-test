@@ -8,43 +8,44 @@
 
 ### 🌱 Level 0
 
-| 문제                                                                       | 풀이                                                  |
-| -------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [120802](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | [두 수의 합](/programmers/Level_0/120802.js)          |
-| [120803](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | [두 수의 차](/programmers/Level_0/120803.js)          |
-| [120804](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [두 수의 곱](/programmers/Level_0/120804.js)          |
-| [120805](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | [몫 구하기](/programmers/Level_0/120805.js)           |
-| [120806](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | [두 수의 나눗셈](/programmers/Level_0/120806.js)      |
-| [120807](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | [숫자 비교하기](/programmers/Level_0/120807.js)       |
-| [120808](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [분수의 덧셈](/programmers/Level_0/120808.js)         |
-| [120809](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [배열 두 배 만들기](/programmers/Level_0/120809.js)   |
-| [120810](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | [나머지 구하기](/programmers/Level_0/120810.js)       |
-| [120811](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [중앙값 구하기](/programmers/Level_0/120811.js)       |
-| [120812](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [최빈값 구하기](/programmers/Level_0/120812.js)       |
-| [120813](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [짝수는 싫어요](/programmers/Level_0/120813.js)       |
-| [120814](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [피자 나눠 먹기 1](/programmers/Level_0/120814.js)    |
-| [120815](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [피자 나눠 먹기 2](/programmers/Level_0/120815.js)    |
-| [120816](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [피자 나눠 먹기 3](/programmers/Level_0/120816.js)    |
-| [120817](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | [배열의 평균값](/programmers/Level_0/120817.js)       |
-| [120818](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [옷가게 할인 받기](/programmers/Level_0/120818.js)    |
-| [120819](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [아이스 아메리카노](/programmers/Level_0/120819.js)   |
-| [120820](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | [나이 출력](/programmers/Level_0/120820.js)           |
-| [120821](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [배열 뒤집기](/programmers/Level_0/120821.js)         |
-| [120822](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [문자열 뒤집기](/programmers/Level_0/120822.js)       |
-| [120823](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [직각삼각형 출력하기](/programmers/Level_0/120823.js) |
-| [120824](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [짝수 홀수 개수](/programmers/Level_0/120824.js)      |
-| [120825](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | [문자 반복 출력하기](/programmers/Level_0/120825.js)  |
-| [120826](https://school.programmers.co.kr/learn/courses/30/lessons/120826) | [특정 문자 제거하기](/programmers/Level_0/120826.js)  |
-| [120829](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [각도기](/programmers/Level_0/120829.js)              |
-| [120830](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [양꼬치](/programmers/Level_0/120830.js)              |
-| [120831](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [짝수의 합](/programmers/Level_0/120831.js)           |
-| [120833](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [배열 자르기](/programmers/Level_0/120833.js)         |
-| [120834](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [외계행성의 나이](/programmers/Level_0/120834.js)     |
-| [120835](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [진료순서 정하기](/programmers/Level_0/120835.js)     |
-| [120836](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [순서쌍의 개수](/programmers/Level_0/120836.js)       |
-| [120837](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [개미 군단](/programmers/Level_0/120837.js)           |
-| [120838](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | [모스부호](/programmers/Level_0/120838.js)            |
-| [120839](https://school.programmers.co.kr/learn/courses/30/lessons/120839) | [가위 바위 보](/programmers/Level_0/120839.js)        |
+| 문제                                                                       | 풀이                                                      |
+| -------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [120802](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | [두 수의 합](/programmers/Level_0/120802.js)              |
+| [120803](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | [두 수의 차](/programmers/Level_0/120803.js)              |
+| [120804](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [두 수의 곱](/programmers/Level_0/120804.js)              |
+| [120805](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | [몫 구하기](/programmers/Level_0/120805.js)               |
+| [120806](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | [두 수의 나눗셈](/programmers/Level_0/120806.js)          |
+| [120807](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | [숫자 비교하기](/programmers/Level_0/120807.js)           |
+| [120808](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [분수의 덧셈](/programmers/Level_0/120808.js)             |
+| [120809](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [배열 두 배 만들기](/programmers/Level_0/120809.js)       |
+| [120810](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | [나머지 구하기](/programmers/Level_0/120810.js)           |
+| [120811](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [중앙값 구하기](/programmers/Level_0/120811.js)           |
+| [120812](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [최빈값 구하기](/programmers/Level_0/120812.js)           |
+| [120813](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [짝수는 싫어요](/programmers/Level_0/120813.js)           |
+| [120814](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [피자 나눠 먹기 1](/programmers/Level_0/120814.js)        |
+| [120815](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [피자 나눠 먹기 2](/programmers/Level_0/120815.js)        |
+| [120816](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [피자 나눠 먹기 3](/programmers/Level_0/120816.js)        |
+| [120817](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | [배열의 평균값](/programmers/Level_0/120817.js)           |
+| [120818](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [옷가게 할인 받기](/programmers/Level_0/120818.js)        |
+| [120819](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [아이스 아메리카노](/programmers/Level_0/120819.js)       |
+| [120820](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | [나이 출력](/programmers/Level_0/120820.js)               |
+| [120821](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [배열 뒤집기](/programmers/Level_0/120821.js)             |
+| [120822](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [문자열 뒤집기](/programmers/Level_0/120822.js)           |
+| [120823](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [직각삼각형 출력하기](/programmers/Level_0/120823.js)     |
+| [120824](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [짝수 홀수 개수](/programmers/Level_0/120824.js)          |
+| [120825](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | [문자 반복 출력하기](/programmers/Level_0/120825.js)      |
+| [120826](https://school.programmers.co.kr/learn/courses/30/lessons/120826) | [특정 문자 제거하기](/programmers/Level_0/120826.js)      |
+| [120829](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [각도기](/programmers/Level_0/120829.js)                  |
+| [120830](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [양꼬치](/programmers/Level_0/120830.js)                  |
+| [120831](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [짝수의 합](/programmers/Level_0/120831.js)               |
+| [120833](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [배열 자르기](/programmers/Level_0/120833.js)             |
+| [120834](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [외계행성의 나이](/programmers/Level_0/120834.js)         |
+| [120835](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [진료순서 정하기](/programmers/Level_0/120835.js)         |
+| [120836](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [순서쌍의 개수](/programmers/Level_0/120836.js)           |
+| [120837](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [개미 군단](/programmers/Level_0/120837.js)               |
+| [120838](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | [모스부호](/programmers/Level_0/120838.js)                |
+| [120839](https://school.programmers.co.kr/learn/courses/30/lessons/120839) | [가위 바위 보](/programmers/Level_0/120839.js)            |
+| [120840](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | [구슬을 나누는 경우의 수](/programmers/Level_0/120840.js) |
 
 <br>
 
@@ -196,7 +197,8 @@
 | 브루트 포스 | Bronze 2 | [2798번](https://www.acmicpc.net/problem/2798)   | [블랙잭](/implementation/brute-force/2798.py)             |
 |             | Silver 4 | [1018번](https://www.acmicpc.net/problem/1018)   | [체스판 다시 칠하기](/implementation/brute-force/1018.py) |
 | 그리디      | Silver 5 | [1439번](https://www.acmicpc.net/problem/1439)   | [뒤집기](/greedy/1439.py)                                 |
-| 정렬        | Silver 5 | [2751번](https://www.acmicpc.net/problem/2751)   | [수 정렬하기](/sorting/2751.py)                           |
+| 정렬        | Silver 5 | [1181번](https://www.acmicpc.net/problem/1181)   | [단어 정렬](/sorting/1181.py)                             |
+|             |          | [2751번](https://www.acmicpc.net/problem/2751)   | [수 정렬하기](/sorting/2751.py)                           |
 | 스택        | Silver 4 | [9012번](https://www.acmicpc.net/problem/9012)   | [괄호](/data_structure/stack/9012.py)                     |
 |             |          | [10828번](https://www.acmicpc.net/problem/10828) | [스택](/data_structure/stack/10828.py)                    |
 | 큐          | Silver 5 | [11866번](https://www.acmicpc.net/problem/11866) | [요세푸스 문제](/data_structure/queue/11866.py)           |
@@ -244,12 +246,21 @@
 
 </details>
 
+<details>
+
+<summary>
+
 #### D2
+
+</summary>
+
+<div markdown="1">
 
 | 문제 | 풀이                                               |
 | ---- | -------------------------------------------------- |
 | 1284 | [수도 요금 경쟁](/swea/d2/1284.py)                 |
 | 1288 | [새로운 불면증 치료법](/swea/d2/1288.py)           |
+| 1859 | [백만장자 프로젝트](/swea/d2/1859.py)              |
 | 1926 | [간단한 369게임](/swea/d2/1926.py)                 |
 | 1928 | [Base64 Decoder](/swea/d2/1928.py)                 |
 | 1940 | [가랏! RC카!](/swea/d2/1940.py)                    |
@@ -271,3 +282,11 @@
 | 2001 | [파리 퇴치](/swea/d2/2001.py)                      |
 | 2005 | [파스칼의 삼각형](/swea/d2/2005.py)                |
 | 2007 | [패턴 마디의 길이](/swea/d2/2007.py)               |
+
+</div>
+</details>
+
+#### D3
+
+| 문제 | 풀이 |
+| ---- | ---- |
