@@ -2,7 +2,7 @@
 
 코딩테스트 문제풀이를 정리한 공간입니다.
 
-## [자바스크립트](/javascript.md)
+## 자바스크립트
 
 프로그래머스
 
@@ -50,10 +50,15 @@
 | [120842](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [2차원으로 만들기](/programmers/Level_0/120842.js)        |
 | [120843](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | [공 던지기](/programmers/Level_0/120843.js)               |
 | [120844](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | [배열 회전시키기](/programmers/Level_0/120844.js)         |
+| [120845](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | [주사위의 개수](/programmers/Level_0/120845.js)           |
+| [120846](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | [합성수 찾기](/programmers/Level_0/120846.js)             |
+| [120847](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [최댓값 만들기](/programmers/Level_0/120847.js)           |
+| [120848](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | [팩토리얼](/programmers/Level_0/120848.js)                |
+| [120849](https://school.programmers.co.kr/learn/courses/30/lessons/120849) | [모음 제거](/programmers/Level_0/120849.js)               |
 
 <br>
 
-## [파이썬](/python.md)
+## 파이썬
 
 <details>
 
