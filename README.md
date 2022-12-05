@@ -55,6 +55,11 @@
 | [120847](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [최댓값 만들기](/programmers/Level_0/120847.js)           |
 | [120848](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | [팩토리얼](/programmers/Level_0/120848.js)                |
 | [120849](https://school.programmers.co.kr/learn/courses/30/lessons/120849) | [모음 제거](/programmers/Level_0/120849.js)               |
+| [120850](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [문자열 정렬하기](/programmers/Level_0/120850.js)         |
+| [120851](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | [숨어있는 숫자의 덧셈](/programmers/Level_0/120851.js)    |
+| [120852](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | [소인수분해](/programmers/Level_0/120852.js)              |
+| [120853](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | [컨트롤 제트](/programmers/Level_0/120853.js)             |
+| [120854](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [배열 원소의 길이](/programmers/Level_0/120854.js)        |
 
 <br>
 
