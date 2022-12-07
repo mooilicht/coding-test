@@ -60,6 +60,11 @@
 | [120852](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | [소인수분해](/programmers/Level_0/120852.js)              |
 | [120853](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | [컨트롤 제트](/programmers/Level_0/120853.js)             |
 | [120854](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [배열 원소의 길이](/programmers/Level_0/120854.js)        |
+| [120888](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | [중복된 문자 제거](/programmers/Level_0/120888.js)        |
+| [120889](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | [삼각형의 완성조건](/programmers/Level_0/120889.js)       |
+| [120890](https://school.programmers.co.kr/learn/courses/30/lessons/120890) | [가까운 수](/programmers/Level_0/120890.js)               |
+| [120891](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | [369게임](/programmers/Level_0/120891.js)                 |
+| [120892](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | [암호 해독](/programmers/Level_0/120892.js)               |
 
 <br>
 
