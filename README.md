@@ -2,22 +2,22 @@
 
 ## 구현
 
-| 난이도   | 문제                                                                                    | 풀이 |
-| -------- | --------------------------------------------------------------------------------------- | ---- |
-| Level 1  | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)         |      |
-| Level 1  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)             |      |
-| Level 2  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)            |      |
-| Level 2  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                 |      |
-| Level 2  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)               |      |
-| Level 2  | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |      |
-| Level 2  | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)             |      |
-| Level 2  | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)          |      |
-| Level 3  | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)        |      |
-| Level 3  | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)       |      |
-| Level 3  | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)            |      |
-| Bronze 2 | [럭키 스트레이트](https://www.acmicpc.net/problem/18406)                                |      |
-| Gold 5   | [치킨 배달](https://www.acmicpc.net/problem/15686)                                      |      |
-| Gold 4   | [뱀](https://www.acmicpc.net/problem/3190)                                              |      |
+| 난이도   | 문제                                                                                    | 풀이                                      |
+| -------- | --------------------------------------------------------------------------------------- | ----------------------------------------- |
+| Level 1  | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)         | [86491.py](/programmers/Level_1/86491.py) |
+| Level 1  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)             |                                           |
+| Level 2  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)            |                                           |
+| Level 2  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                 |                                           |
+| Level 2  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)               |                                           |
+| Level 2  | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |                                           |
+| Level 2  | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)             |                                           |
+| Level 2  | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)          |                                           |
+| Level 3  | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)        |                                           |
+| Level 3  | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)       |                                           |
+| Level 3  | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)            |                                           |
+| Bronze 2 | [럭키 스트레이트](https://www.acmicpc.net/problem/18406)                                |                                           |
+| Gold 5   | [치킨 배달](https://www.acmicpc.net/problem/15686)                                      |                                           |
+| Gold 4   | [뱀](https://www.acmicpc.net/problem/3190)                                              |                                           |
 
 <br>
 
@@ -151,14 +151,14 @@
 
 ## SUM, MAX, MIN
 
-| 난이도  | 문제                                                                                                      | 풀이 |
-| ------- | --------------------------------------------------------------------------------------------------------- | ---- |
-| Level 1 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                 |      |
-| Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          |      |
-| Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         |      |
-| Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          |      |
-| Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          |      |
-| Level 2 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |      |
+| 난이도  | 문제                                                                                                      | 풀이                                          |
+| ------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| Level 1 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                 | [131697.sql](/programmers/Level_1/131697.sql) |
+| Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          |                                               |
+| Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         |                                               |
+| Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          |                                               |
+| Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          |                                               |
+| Level 2 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |                                               |
 
 <br>
 
