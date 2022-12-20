@@ -5,7 +5,7 @@
 | 난이도   | 문제                                                                                    | 풀이                                      |
 | -------- | --------------------------------------------------------------------------------------- | ----------------------------------------- |
 | Level 1  | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)         | [86491.py](/programmers/Level_1/86491.py) |
-| Level 1  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)             |                                           |
+| Level 1  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)             | [42840.py](/programmers/Level_1/42840.py) |
 | Level 2  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)            |                                           |
 | Level 2  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                 |                                           |
 | Level 2  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)               |                                           |
@@ -154,7 +154,7 @@
 | 난이도  | 문제                                                                                                      | 풀이                                          |
 | ------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | Level 1 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                 | [131697.sql](/programmers/Level_1/131697.sql) |
-| Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          |                                               |
+| Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          | [59415.sql](/programmers/Level_1/59415.sql)   |
 | Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         |                                               |
 | Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          |                                               |
 | Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          |                                               |
