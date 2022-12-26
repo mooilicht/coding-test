@@ -49,16 +49,16 @@
 
 ## 탐욕법(Greedy, 그리디)
 
-| 난이도   | 문제                                                                                  | 풀이 |
-| -------- | ------------------------------------------------------------------------------------- | ---- |
-| Level 1  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)             |      |
-| Level 2  | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)           |      |
-| Level 2  | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)       |      |
-| Level 2  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)           |      |
-| Level 3  | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |      |
-| Level 3  | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)        |      |
-| Level 4  | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |      |
-| Silver 5 | [뒤집기](https://www.acmicpc.net/problem/1439)                                        |      |
+| 난이도   | 문제                                                                                  | 풀이                                      |
+| -------- | ------------------------------------------------------------------------------------- | ----------------------------------------- |
+| Level 1  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)             | [42862.py](/programmers/Level_1/42862.py) |
+| Level 2  | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)           |                                           |
+| Level 2  | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)       |                                           |
+| Level 2  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)           |                                           |
+| Level 3  | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |                                           |
+| Level 3  | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)        |                                           |
+| Level 4  | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |                                           |
+| Silver 5 | [뒤집기](https://www.acmicpc.net/problem/1439)                                        |                                           |
 
 <br>
 
