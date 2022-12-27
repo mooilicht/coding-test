@@ -77,14 +77,14 @@
 
 ## 스택/큐
 
-| 난이도  | 문제                                                                                  | 풀이 |
-| ------- | ------------------------------------------------------------------------------------- | ---- |
-| Level 1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   |      |
-| Level 2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)        |      |
-| Level 2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)           |      |
-| Level 2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)             |      |
-| Level 2 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |      |
-| Level 2 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)           |      |
+| 난이도  | 문제                                                                                  | 풀이                                      |
+| ------- | ------------------------------------------------------------------------------------- | ----------------------------------------- |
+| Level 1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   | [12906.py](/programmers/Level_1/12906.py) |
+| Level 2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)        |                                           |
+| Level 2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)           |                                           |
+| Level 2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)             |                                           |
+| Level 2 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |                                           |
+| Level 2 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)           |                                           |
 
 <br>
 
@@ -172,7 +172,7 @@
 | Level 1 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)        | [131528.sql](/programmers/Level_1/131528.sql) |
 | Level 1 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)               | [59039.sql](/programmers/Level_1/59039.sql)   |
 | Level 1 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | [131114.sql](/programmers/Level_1/131114.sql) |
-| Level 2 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)                           |                                               |
+| Level 2 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)                           | [59410.sql](/programmers/Level_2/59410.sql)   |
 
 <br>
 
