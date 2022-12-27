@@ -49,6 +49,8 @@
 
 ## 탐욕법(Greedy, 그리디)
 
+- 현재 상황에서 지금 당장 좋은 것만 고르는 방법
+
 | 난이도   | 문제                                                                                  | 풀이                                      |
 | -------- | ------------------------------------------------------------------------------------- | ----------------------------------------- |
 | Level 1  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)             | [42862.py](/programmers/Level_1/42862.py) |
@@ -155,22 +157,22 @@
 | ------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | Level 1 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                 | [131697.sql](/programmers/Level_1/131697.sql) |
 | Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          | [59415.sql](/programmers/Level_1/59415.sql)   |
-| Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         |                                               |
-| Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          |                                               |
-| Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          |                                               |
-| Level 2 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |                                               |
+| Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         | [59406.sql](/programmers/Level_2/59406.sql)   |
+| Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          | [59038.sql](/programmers/Level_2/59038.sql)   |
+| Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          | [59408.sql](/programmers/Level_2/59408.sql)   |
+| Level 2 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | [131115.sql](/programmers/Level_2/131115.sql) |
 
 <br>
 
 ## IS NULL
 
-| 난이도  | 문제                                                                                                       | 풀이 |
-| ------- | ---------------------------------------------------------------------------------------------------------- | ---- |
-| Level 1 | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)               |      |
-| Level 1 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)        |      |
-| Level 1 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)               |      |
-| Level 1 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) |      |
-| Level 2 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)                           |      |
+| 난이도  | 문제                                                                                                       | 풀이                                          |
+| ------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| Level 1 | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)               | [59407.sql](/programmers/Level_1/59407.sql)   |
+| Level 1 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)        | [131528.sql](/programmers/Level_1/131528.sql) |
+| Level 1 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)               | [59039.sql](/programmers/Level_1/59039.sql)   |
+| Level 1 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | [131114.sql](/programmers/Level_1/131114.sql) |
+| Level 2 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)                           |                                               |
 
 <br>
 
